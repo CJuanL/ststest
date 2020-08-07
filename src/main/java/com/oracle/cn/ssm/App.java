@@ -8,7 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println( "sts Git!" );
+        System.out.println( "这是idea更新版本" );
     }
 }
